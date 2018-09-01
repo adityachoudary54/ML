@@ -1,0 +1,6 @@
+see about normalization
+generating random numbers
+plot random numbers as scatter plot
+generate normal distribution in 2d
+convert to standard normal distribution
+
